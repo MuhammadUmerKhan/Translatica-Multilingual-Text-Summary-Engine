@@ -115,6 +115,16 @@ http://localhost:8501/
 
 ---
 
+### Screenshots
+
+1. **Translation Interference**  
+   ![Question Answering](https://github.com/MuhammadUmerKhan/Multilingual-Text-Translation---Summarization-System/blob/main/imgs/ss2.png)
+
+2. **Summarization Evidence**  
+   ![Supporting Evidence](https://github.com/MuhammadUmerKhan/Multilingual-Text-Translation---Summarization-System/blob/main/imgs/ss1.png)
+
+---
+
 ## 💖 Conclusion
 
 This project demonstrates the power of **multilingual NLP models** for real-world applications. By combining translation and summarization in an easy-to-use web app, we enable seamless communication and knowledge extraction across languages.
