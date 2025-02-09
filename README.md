@@ -49,10 +49,10 @@ This project aims to:
 ## 🚀 Key Features
 
 - 🌐 **Multilingual Translation:** Translate text between multiple languages.
-- 📖 **Text Summarization:** Extract concise summaries from long documents.
-- 🛋️ **User-Friendly Interface:** Simple UI for easy interaction.
+- 📚 **Text Summarization:** Extract concise summaries from long documents.
+- 🏠 **User-Friendly Interface:** Simple UI for easy interaction.
 - 💡 **Fast & Efficient:** Runs on Hugging Face Spaces with optimized models.
-- 📅 **File Upload Support:** Upload text files for summarization.
+- 🗓 **File Upload Support:** Upload text files for summarization.
 
 ---
 
@@ -106,6 +106,7 @@ http://localhost:8501/
 - 🌎 Improve summarization quality with newer transformer models.
 - 🔗 Integrate speech-to-text for real-time translation.
 - 🌐 Deploy as a browser extension or mobile app.
+- ⚙️ **Try more advanced Large Language Models (LLMs)** to enhance translation and summarization quality, as our current model choices were limited due to computational constraints.
 
 ---
 
@@ -125,7 +126,6 @@ This project demonstrates the power of **multilingual NLP models** for real-worl
 
 ---
 
-📖 **Feel free to contribute, raise issues, or suggest improvements!**
+📚 **Feel free to contribute, raise issues, or suggest improvements!**
 
-📌 **License:** MIT License 🔓
-
+📌 **License:** MIT License 🔒
