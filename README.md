@@ -60,7 +60,7 @@ This project aims to:
 
 ### 📂 Clone the Repository
 ```bash
-git clone https://github.com/MuhammadUmerKhan/Multilingual-Translation-Summarization.git
+git clone https://github.com/MuhammadUmerKhan/Multilingual-Text-Translation---Summarization-System.git
 cd Multilingual-Translation-Summarization
 ```
 
