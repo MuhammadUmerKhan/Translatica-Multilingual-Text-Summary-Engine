@@ -100,12 +100,6 @@ http://localhost:8501/
 
 ---
 
-## 🏆 Live Demo
-
-🌟 **Try it out on Hugging Face Spaces:** [Live Demo](https://huggingface.co/spaces/MuhammadUmerKhan/Multilingual-Translation-Summarization)
-
----
-
 ## 🛡️ Future Plans
 
 - 🌍 Expand support for more languages.
