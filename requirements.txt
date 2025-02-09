@@ -1,0 +1,6 @@
+transformers
+PyPDF2
+sentencepiece 
+streamlit 
+torch 
+pdfplumber
