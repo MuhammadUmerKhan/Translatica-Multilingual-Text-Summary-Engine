@@ -1,0 +1,116 @@
+# 🌍 Multilingual Text Translation & Summarization System
+
+![Translation & Summarization](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Translation_Process.svg/1200px-Translation_Process.svg.png)
+
+## 📜 Overview
+
+The **Multilingual Text Translation & Summarization System** is an AI-powered tool designed to:
+- Translate text between multiple languages with high accuracy.
+- Summarize long paragraphs or uploaded documents into concise versions.
+
+The project leverages state-of-the-art **pretrained transformer models** for both translation and summarization tasks. It is deployed as a user-friendly **Streamlit web application** and hosted on **Hugging Face Spaces**.
+
+---
+
+## 📌 Table of Contents
+- [Problem Statement](#problem-statement)
+- [Methodology](#methodology)
+- [Key Features](#key-features)
+- [Installation & Usage](#installation--usage)
+- [Running the Project](#running-the-project)
+- [Live Demo](#live-demo)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+
+---
+
+## ❓ Problem Statement
+
+In a globalized world, overcoming **language barriers** and extracting meaningful insights from text is a major challenge.
+
+### Challenges Addressed:
+- **Accurate multilingual translation** across various languages.
+- **Efficient summarization** of long-form text and documents.
+- **User-friendly interface** for real-time processing.
+
+---
+
+## 🛠️ Methodology
+
+### 1️⃣ **Translation Pipeline:**
+- Uses **Facebook's M2M100** model (`facebook/m2m100_418M`), which supports **multiple languages**.
+- Tokenizes the input text and processes it through a transformer-based model.
+
+### 2️⃣ **Summarization Pipeline:**
+- Uses **BART-based text summarization** (`facebook/bart-large-cnn`).
+- Supports long text summarization while maintaining coherence and context.
+
+### 3️⃣ **User Interface:**
+- Built with **Streamlit** for an interactive experience.
+- Provides options to select input and target languages.
+- Enables file upload for summarization.
+
+---
+
+## 🚀 Key Features
+
+- ✅ **Supports multiple languages** for translation.
+- ✅ **Text summarization** for documents and long paragraphs.
+- ✅ **Interactive UI** with easy selection of languages.
+- ✅ **Runs on Hugging Face Spaces** (lightweight and accessible).
+- ✅ **Deployable on low-resource systems.**
+
+---
+
+## 📦 Installation & Usage
+
+### 1️⃣ Clone the Repository:
+```bash
+git clone https://github.com/MuhammadUmerKhan/Multilingual-Translation-Summarization.git
+cd Multilingual-Translation-Summarization
+```
+
+### 2️⃣ Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Application:
+```bash
+streamlit run app.py
+```
+
+**Navigate to:** `http://localhost:8501/` to use the app.
+
+---
+
+## 🏃‍♂️ Running the Project
+
+The system will launch a **web app** where users can:
+1. **Select a source language** and input text for translation.
+2. **Choose the target language** for translation.
+3. **Upload a file or enter text** for summarization.
+4. **Click "Translate" or "Summarize"** to get results instantly.
+
+---
+
+## 🔗 Live Demo
+
+🎯 **[Try the App on Hugging Face Spaces](https://huggingface.co/spaces/MuhammadUmerKhan/Multilingual-Translator)**
+
+---
+
+## 🔮 Future Enhancements
+
+🔹 **More language support** with expanded translation models.  
+🔹 **Real-time speech-to-text** for direct audio translation.  
+🔹 **Improved summarization quality** using advanced LLMs like GPT-4 or LLaMA.  
+🔹 **Integration with APIs** for production use cases.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. Feel free to modify and enhance the system as needed!
+
+---
