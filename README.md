@@ -1,4 +1,4 @@
-# 📝 Multilingual Text Translation & Summarization System
+# 📝 Translatica: Multilingual Text & Summary Engine
 
 ![Translation & Summarization](https://618media.com/wp-content/uploads/2024/02/claude-ai-s-language-translation-capabilities.webp)
 
